@@ -27,17 +27,6 @@
 
 <br/>
 
-<div align="center">
-<table>
-  <tr>
-    <td valign="top" width="50%" align="center">
-      <a href="https://github.com/sintlab/holocube-gs-mac"><b>HoloCube GS for Mac</b></a><br/>
-      <sub>Light-field digital human for DIY1 / C1 displays<br/>光场数字人 · <a href="https://holo.sintlab.com/mac/">download</a></sub>
-    </td>
-    <td valign="top" width="50%" align="center">
-      <a href="https://v1.sintlab.com"><b>v1.sintlab.com</b></a><br/>
-      <sub>The 2022 studio site — WebGL, real-time, multi-user<br/>旧版官网归档</sub>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <sub>Archive: <a href="https://v1.sintlab.com">v1.sintlab.com</a> — the 2022 studio site (WebGL, real-time, multi-user) · 旧版官网归档</sub>
+</p>

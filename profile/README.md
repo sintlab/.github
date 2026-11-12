@@ -9,8 +9,6 @@
   <a href="https://sintlab.com">sintlab.com</a>
   &nbsp;·&nbsp;
   <a href="https://sintbot.com">sintbot.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/WaterTian">@WaterTian</a>
 </p>
 
 <br/>

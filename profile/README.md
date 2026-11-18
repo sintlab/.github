@@ -1,8 +1,7 @@
 <h1 align="center">SintLab</h1>
 
 <p align="center">
-  <sub>Creative technology studio · Beijing · since 2016</sub><br/>
-  <sub>创意 · 技术 · 实验室</sub>
+  <sub>Creative technology studio · since 2016</sub><br/>
 </p>
 
 <p align="center">

@@ -13,12 +13,12 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/sintlab/sintbot"><picture><source srcset="https://raw.githubusercontent.com/sintlab/sintbot/main/docs/assets/hero.svg" type="image/svg+xml"><img src="https://raw.githubusercontent.com/sintlab/sintbot/main/docs/assets/banner.png" alt="SintBot — the group-project AI daemon, running on your own machine" width="880"></picture></a>
+  <a href="https://github.com/sintlab/sintbot"><picture><source srcset="https://raw.githubusercontent.com/sintlab/sintbot/main/docs/assets/hero.svg" type="image/svg+xml"><img src="https://raw.githubusercontent.com/sintlab/sintbot/main/docs/assets/banner.png" alt="SintBot — your agents in the group chat" width="880"></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sintlab/sintbot"><b>SintBot</b></a> — a self-hosted daemon that puts Claude Code and Codex in your team's group chat.<br/>
-  <sub>One group, one project · any model, one memory · Slack, Feishu &amp; WeCom · MIT · <code>npm i -g sintbot</code></sub><br/>
+  <a href="https://github.com/sintlab/sintbot"><b>SintBot</b></a> — your agents in the group chat. A free, open-source personal AI agent on your Mac: message it in Slack, Feishu or WeCom and it runs Claude Code or Codex on your projects.<br/>
+  <sub>One group, one project · any model, one memory · macOS app · free &amp; open source (PolyForm Shield)</sub><br/>
 </p>
 
 <br/>
